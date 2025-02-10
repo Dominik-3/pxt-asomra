@@ -15,6 +15,7 @@ radio.onReceivedNumber(function (receivedNumber: number) {
         basic.showString("N")
         basic.clearScreen()
         Sensors.SetLightLevel()
+        dobehl = true
     }
 })
 
