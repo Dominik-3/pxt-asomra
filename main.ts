@@ -38,5 +38,3 @@ Sensors.OnLightDrop(function () {
         basic.showNumber((cas2 - cas1) / 1000)
     }
 })
-
-
